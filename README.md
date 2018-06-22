@@ -22,7 +22,7 @@ For both class notebooks and team projects, participants of the Applied Data Ana
 
 ## Program Schedule
 
-__Day 1: Welcome & Introduction, Core Datasets & Git__
+__Day 1: Introduction, Core Datasets & Git__
 
 __Day 2: SQL & Databases__
 
@@ -32,9 +32,9 @@ __Day 4: Record Linkage__
 
 __Day 5: Visualization & APIs__
 
-__Day 6: Network Analysis + Projects__
+__Day 6: Network Analysis__
 
-__Day 7: Intro to Machine Learning__
+__Day 7: Introduction to Machine Learning__
 
 __Day 8: Machine Learning__
 
